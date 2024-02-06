@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="11.7">
+<module id="a33fa6e8-801e-48f7-8880-1bc0f6eea2d0" name="TestProject">
+<resource path="AppServer" publish="true"/>
+</module>
+</module-content>
